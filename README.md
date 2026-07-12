@@ -67,7 +67,7 @@ Contribution guidelines will be published as the project matures.
 
 ## License
 
-License to be determined.
+    GPL-3.0 license
 
 ---
 
